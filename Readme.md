@@ -54,8 +54,7 @@ import { Logger } from "./B";
 
 - Exécuter le JavaScript compilé avec Node.js :
   ```bash
-  node dist/ton-fichier.js
+  node public/ton-fichier.js
   ```
 
 ---
-# commonJs
